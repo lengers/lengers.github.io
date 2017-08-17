@@ -2,7 +2,7 @@
 title: 'Leonard Engers'
 description: 'Student, tech enthusiast and geek. Among other things.'
 url: 'http://lengers.github.io'
-baseurl: '/'
+baseurl:
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 
