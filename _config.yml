@@ -1,8 +1,8 @@
 # Site settings
 title: 'Leonard Engers'
 description: 'Student, tech enthusiast and geek. Among other things.'
-url: 'http://lengers.github.io'
-baseurl:
+url: 'https://lengers.github.io'
+baseurl: ''
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 
