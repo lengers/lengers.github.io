@@ -1,17 +1,17 @@
 # Site settings
-title: Jekyll-Uno
-description: 'Jekyll-Uno - a minimal, responsive theme for Jekyll'
+title: 'Leonard Engers'
+description: 'Student, tech enthusiast and geek. Among other things.'
 url: 'http://lengers.github.io'
 baseurl: '/'
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 
 author:
-  name: 'Leo Engers'
+  name: 'Leonard Engers'
   email: leo.engers@online.de
   twitter_username: l3ng3rs
   github_username:  lengers
-  linkedin_username:  leoengers
+  linkedin_username:  leonard-engers
 
 defaults:
   -
